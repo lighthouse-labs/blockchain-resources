@@ -1,12 +1,11 @@
 # Blockchain for Developers Resources 
 
-A list of links to readings and resources useful to developers learning blockchain.
+A list of links to readings and resources useful to developers learning blockchain. These resources come from various corners of the Interwebs, as well as students in the Lighthouse Labs [Blockchain for Developers](https://www.lighthouselabs.ca/blockchain-developers-course) program. If you have a resource you would like to add to the list, please submit a pull request.
 
 ## Table of Contents
 
 1. [Decentralization](##Decentralization)
 2. [Immutability](##Immutability-and-Consensus)
-
 
 
 ## Decentralization
