@@ -5,7 +5,7 @@ A list of links to readings and resources useful to developers learning blockcha
 ## Table of Contents
 
 1. [Decentralization](##Decentralization)
-2. [Immutability](##Immutability-and-Consensus)
+2. [Immutability and Consensus](##Immutability-and-Consensus)
 
 
 ## Decentralization
