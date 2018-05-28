@@ -27,3 +27,6 @@ A list of links to readings and resources useful to developers learning blockcha
 * [A HitchHiker's Guide to Consensus Algorithms - Hacker Noon](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 * [Short Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
 * [Beginner's Guide to Ethereum Casper Hardfork: What You Need to Know](https://blockonomi.com/ethereum-casper/)
+
+## Student Blogs
+* https://medium.com/@navarrete.tristan/a-radical-new-future-55330615c716 - Tristan Navarrete
