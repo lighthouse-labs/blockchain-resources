@@ -6,7 +6,7 @@ A list of links to readings and resources useful to developers learning blockcha
 
 1. [Decentralization](##Decentralization)
 2. [Immutability and Consensus](##Immutability-and-Consensus)
-
+3. [Student Blogs](##Student-Blogs)
 
 ## Decentralization
 
@@ -29,4 +29,5 @@ A list of links to readings and resources useful to developers learning blockcha
 * [Beginner's Guide to Ethereum Casper Hardfork: What You Need to Know](https://blockonomi.com/ethereum-casper/)
 
 ## Student Blogs
-* https://medium.com/@navarrete.tristan/a-radical-new-future-55330615c716 - Tristan Navarrete
+* [You're kind of right, Professor Weaver](https://medium.com/@jrobinsondev/youre-kind-of-right-professor-weaver-a8ef9a2f7d68)
+* [A Radical New Future](https://medium.com/@navarrete.tristan/a-radical-new-future-55330615c716) - Tristan Navarrete
