@@ -4,12 +4,9 @@ A list of links to readings and resources useful to developers learning blockcha
 
 ## Table of Contents
 
-0. [Student Blogs] (##Student-Blogs)
 1. [Decentralization](##Decentralization)
 2. [Immutability and Consensus](##Immutability-and-Consensus)
-
-## Student Blogs
-* [You're kind of right, Professor Weaver](https://medium.com/@jrobinsondev/youre-kind-of-right-professor-weaver-a8ef9a2f7d68)
+3. [Student Blogs](##Student-Blogs)
 
 ## Decentralization
 
@@ -30,3 +27,7 @@ A list of links to readings and resources useful to developers learning blockcha
 * [A HitchHiker's Guide to Consensus Algorithms - Hacker Noon](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 * [Short Guide to Blockchain Consensus Protocols](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
 * [Beginner's Guide to Ethereum Casper Hardfork: What You Need to Know](https://blockonomi.com/ethereum-casper/)
+
+## Student Blogs
+* [You're kind of right, Professor Weaver](https://medium.com/@jrobinsondev/youre-kind-of-right-professor-weaver-a8ef9a2f7d68)
+* [A Radical New Future](https://medium.com/@navarrete.tristan/a-radical-new-future-55330615c716) - Tristan Navarrete
