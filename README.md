@@ -4,9 +4,12 @@ A list of links to readings and resources useful to developers learning blockcha
 
 ## Table of Contents
 
+0. [Student Blogs] (##Student-Blogs)
 1. [Decentralization](##Decentralization)
 2. [Immutability and Consensus](##Immutability-and-Consensus)
 
+## Student Blogs
+* [You're kind of right, Professor Weaver](https://medium.com/@jrobinsondev/youre-kind-of-right-professor-weaver-a8ef9a2f7d68)
 
 ## Decentralization
 
